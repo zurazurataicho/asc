@@ -11,17 +11,19 @@
 ### Usage
 #### Show ASCII code you want
 ```shell
-% asc x Y z @ H a L . J p
+% asc x Y z @ Z u R a . O r g
 x: dec=120, hex=0x78
 Y: dec=89, hex=0x59
 z: dec=122, hex=0x7a
 @: dec=64, hex=0x40
-H: dec=72, hex=0x48
+Z: dec=90, hex=0x5a
+u: dec=117, hex=0x75
+R: dec=82, hex=0x52
 a: dec=97, hex=0x61
-L: dec=76, hex=0x4c
 .: dec=46, hex=0x2e
-J: dec=74, hex=0x4a
-p: dec=112, hex=0x70
+O: dec=79, hex=0x4f
+r: dec=114, hex=0x72
+g: dec=103, hex=0x67
 ```
 
 #### Show ASCII code you want
