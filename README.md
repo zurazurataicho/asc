@@ -26,7 +26,7 @@ r: hex=0x72, dec=114
 g: hex=0x67, dec=103
 ```
 
-#### Show ASCII code you want
+#### Show ASCII code table
 ```shell
 % asc
    0 1 2 3 4 5 6 7 8 9 A B C D E F
