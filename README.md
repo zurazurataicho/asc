@@ -12,18 +12,18 @@
 #### Show ASCII code you want
 ```shell
 % asc x Y z @ Z u R a . O r g
-x: dec=120, hex=0x78
-Y: dec=89, hex=0x59
-z: dec=122, hex=0x7a
-@: dec=64, hex=0x40
-Z: dec=90, hex=0x5a
-u: dec=117, hex=0x75
-R: dec=82, hex=0x52
-a: dec=97, hex=0x61
-.: dec=46, hex=0x2e
-O: dec=79, hex=0x4f
-r: dec=114, hex=0x72
-g: dec=103, hex=0x67
+x: hex=0x78, dec=120
+Y: hex=0x59, dec=89
+z: hex=0x7a, dec=122
+@: hex=0x40, dec=64
+Z: hex=0x5a, dec=90
+u: hex=0x75, dec=117
+R: hex=0x52, dec=82
+a: hex=0x61, dec=97
+.: hex=0x2e, dec=46
+O: hex=0x4f, dec=79
+r: hex=0x72, dec=114
+g: hex=0x67, dec=103
 ```
 
 #### Show ASCII code you want

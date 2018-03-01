@@ -24,6 +24,6 @@ int main(int argc, char *argv[])
     }
 
     for (i = 1; i < argc; i++) {
-        printf("%c: dec=%d, hex=0x%02x\n", *argv[i], *argv[i], *argv[i]);
+        printf("%c: hex=0x%02x, dec=%d\n", *argv[i], *argv[i], *argv[i]);
     }
 }
