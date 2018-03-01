@@ -5,7 +5,7 @@
 ### Installation
 ```
 % cc -o asc asc.c
-% cp asc /path/to/you/want
+% cp asc /path/to/where/you/want
 ```
 
 ### Usage
