@@ -1,6 +1,7 @@
 ## asc - ASCII code viewer
 ### Description
-- asc can show you ASCII code you want or table from 0x20 to 0x7F.
+asc can show you ASCII code you want or table from 0x20 to 0x7F.
+Also you can get ASCII characters from ASCII codes.
 
 ### Installation
 ```
@@ -36,4 +37,24 @@ g: hex=0x67, dec=103
 5  P Q R S T U V W X Y Z [ \ ] ^ _
 6  ` a b c d e f g h i j k l m n o
 7  p q r s t u v w x y z { | } ~
+```
+
+You can -l option for inline.
+
+```shell
+% asc -l
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+```
+
+#### Show ASCII chacacters from codes
+```shell
+% asc -lx 120 89 122 64 90 117 82 97 46 79 114 103
+xYz@ZuRa.Org
+```
+
+You can include hexadecimals.
+
+```shell
+% asc -lx 66 0x41 68 0x20 0x42 79 89
+BAD
 ```
