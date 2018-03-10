@@ -56,5 +56,5 @@ You can include hexadecimals.
 
 ```shell
 % asc -lx 66 0x41 68 0x20 0x42 79 89
-BAD
+BAD BOY
 ```
